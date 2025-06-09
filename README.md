@@ -1,12 +1,58 @@
-# React + Vite
+# 🍽️ Foodie Zone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Foodie Zone** is a modern, responsive restaurant landing page built with **React**, **Vite**, and **TailwindCSS**. This single-page UI showcases a beautifully styled food ordering layout, supports dark mode, and is optimized for performance and mobile responsiveness.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- ⚛️ **React + Vite** for blazing fast development
+- 🎨 **TailwindCSS** for utility-first styling
+- 🌗 **Dark Mode** toggle
+- 📱 Fully **Responsive Design**
+- 🖼️ Hero section with app promotion
+- 🍱 Featured dishes with image gallery
+- 🗣️ Customer testimonials
+- 📥 App Store / Play Store download buttons
+- 🔗 Social media footer with links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light](./src/assets/screenshots/light-mode.png) | ![Dark](./src/assets/screenshots/dark-mode.png) |
+
+> Replace these with actual screenshots from your project in `src/assets/screenshots`.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React (with Vite)
+- **Styling:** TailwindCSS
+- **Icons:** React Icons
+- **Version Control:** Git & GitHub
+
+---
+
+## 📁 Getting Started
+
+### Prerequisites
+
+- Node.js (v16+ recommended)
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/wadiyage/foodie-zone.git
+cd foodie-zone
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
