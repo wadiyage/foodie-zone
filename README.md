@@ -16,7 +16,7 @@
 Developed with ❤️ by **Sandaruwan Wadiyage**  
 📌 UI/UX Designer & Front-End Developer  
 🌐 [Portfolio Website](https://your-portfolio-link.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/wadiyage) | [GitHub](https://github.com/wadiyage)
+🔗 [LinkedIn](https://linkedin.com/in/sandaruwan-wadiyage) | [GitHub](https://wqd-yage.pages.dev)
 
 ---
 
