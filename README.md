@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-🎯 [https://foodiezone-dev.netlify.app](https://foodiezone-dev.netlify.app) – Live deployed version  
+🎯 [https://foodiezone-dev.netlify.app](https://foodiezone-app.netlify.app) – Live deployed version  
 📂 [GitHub Repo](https://github.com/wadiyage/foodie-zone) – Explore the codebase
 
 ---
