@@ -1,20 +1,36 @@
 # 🍽️ Foodie Zone
 
-**Foodie Zone** is a modern, responsive restaurant landing page built with **React**, **Vite**, and **TailwindCSS**. This single-page UI showcases a beautifully styled food ordering layout, supports dark mode, and is optimized for performance and mobile responsiveness.
+**Foodie Zone** is a modern, responsive restaurant landing page built using **React**, **Vite**, and **TailwindCSS**. This project delivers a clean single-page UI for food ordering services, featuring dark mode, mobile-first design, and engaging user sections like featured dishes, testimonials, and app download links.
+
+---
+
+## 🔗 Live Demo
+
+🎯 [https://foodiezone-dev.netlify.app](https://foodiezone-dev.netlify.app) – Live deployed version  
+📂 [GitHub Repo](https://github.com/wadiyage/foodie-zone) – Explore the codebase
+
+---
+
+## 🙋‍♂️ About the Developer
+
+Developed with ❤️ by **Sandaruwan Wadiyage**  
+📌 UI/UX Designer & Front-End Developer  
+🌐 [Portfolio Website](https://your-portfolio-link.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/wadiyage) | [GitHub](https://github.com/wadiyage)
 
 ---
 
 ## 🌟 Features
 
-- ⚛️ **React + Vite** for blazing fast development
-- 🎨 **TailwindCSS** for utility-first styling
+- ⚛️ Built with **React + Vite** for blazing-fast performance
+- 🎨 Styled using **TailwindCSS** for utility-first design
 - 🌗 **Dark Mode** toggle
-- 📱 Fully **Responsive Design**
-- 🖼️ Hero section with app promotion
-- 🍱 Featured dishes with image gallery
-- 🗣️ Customer testimonials
-- 📥 App Store / Play Store download buttons
-- 🔗 Social media footer with links
+- 📱 **Fully Responsive** (mobile, tablet, desktop)
+- 🖼️ Hero section with mobile app promo
+- 🍱 Featured dishes with gallery
+- 🗣️ Customer testimonial section
+- 📲 App Store and Play Store CTA buttons
+- 🔗 Footer with social media icons
 
 ---
 
@@ -24,24 +40,27 @@
 |------------|-----------|
 | ![Light](./src/assets/screenshots/light-mode.png) | ![Dark](./src/assets/screenshots/dark-mode.png) |
 
-> Replace these with actual screenshots from your project in `src/assets/screenshots`.
+> 📝 Replace these with your actual screenshots from the app.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React (with Vite)
-- **Styling:** TailwindCSS
-- **Icons:** React Icons
-- **Version Control:** Git & GitHub
+| Technology | Usage |
+|------------|--------|
+| React + Vite | Core Front-End Framework |
+| TailwindCSS | UI Styling |
+| React Icons | Iconography |
+| Netlify | Deployment |
+| Git & GitHub | Version Control |
 
 ---
 
-## 📁 Getting Started
+## 📁 Getting Started (For Developers)
 
 ### Prerequisites
 
-- Node.js (v16+ recommended)
+- Node.js (v16+)
 - npm or yarn
 
 ### Installation
@@ -54,5 +73,5 @@ cd foodie-zone
 # Install dependencies
 npm install
 
-# Run the development server
+# Start development server
 npm run dev
